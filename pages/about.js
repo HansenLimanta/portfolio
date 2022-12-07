@@ -30,10 +30,10 @@ function About(props) {
         <AboutMe>
           <h1 style={{ marginBottom: 0 }}>Hello!</h1>
           <p>
-            My name is Hansen, I’m a front-end developer based in Jakarta,
+            My name is Hansen, I&apos;m a front-end developer based in Jakarta,
             Indonesia. I graduated from Bina Nusantara University with Computer
-            Science degree. I’m always curious to learn more when it comes to
-            new technologies and creative coding.
+            Science degree. I&apos;m always curious to learn more when it comes
+            to new technologies and creative coding.
           </p>
           <HoverText
             onMouseEnter={() => setIsHoverResume(true)}
@@ -88,7 +88,7 @@ function About(props) {
           <p>Frontend Engineer Specialist at Sagara Technology</p>
           <h2>Get in Touch</h2>
           <p>
-            I'm open to Job opportunities where I can contribute, learn and
+            I&apos;m open to Job opportunities where I can contribute, learn and
             grow.
           </p>
           <StyledLinks>
