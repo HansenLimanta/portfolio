@@ -13,7 +13,7 @@ import { getRandomImage } from "./../utils/emojiPicker";
 import styled from "@emotion/styled";
 import Meta from "./../components/Meta";
 
-function playground() {
+function Playground() {
   const scene = useRef();
   const engine = useRef(Engine.create());
 
@@ -169,4 +169,4 @@ const ClickButton = styled(motion.div)`
   pointer-events: auto;
 `;
 
-export default playground;
+export default Playground;

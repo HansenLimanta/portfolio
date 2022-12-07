@@ -7,7 +7,7 @@ import { projectsData } from "../utils/data";
 import LinkItem from "../components/LinkItem";
 import ContactMe from "../components/ContactMe";
 
-function projects(props) {
+function Projects(props) {
   const [isHoverAbout, setIsHoverAbout] = useState(false);
   return (
     <>
@@ -85,4 +85,4 @@ const StyledLinks = styled.div`
   margin-top: 40px;
 `;
 
-export default projects;
+export default Projects;

@@ -11,7 +11,7 @@ import logoV from "../public/nameLogo2-vertical.svg";
 import ContactMe from "./../components/ContactMe";
 import LinkItem from "../components/LinkItem";
 
-function about(props) {
+function About(props) {
   const isSmall = useIsSmall();
   const [isHoverResume, setIsHoverResume] = useState(false);
   const [isHoverProj, setIsHoverProj] = useState(false);
@@ -207,4 +207,4 @@ const StyledLinks = styled.div`
   margin-top: 16px;
 `;
 
-export default about;
+export default About;
