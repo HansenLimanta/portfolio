@@ -123,9 +123,9 @@ const Logo = styled.div`
   left: 0;
   padding: 0 calc(50px + 2vw) 0 calc(70px + 2vw);
   @media (max-width: 800px) {
-    width: 60px;
+    width: 45px;
     top: 0;
-    left: 20px;
+    left: 15px;
     padding: 0;
     z-index: 1;
   }
@@ -146,7 +146,7 @@ const AboutMe = styled.div`
   }
   @media (max-width: 800px) {
     margin: 0;
-    padding: 100px 20px 100px 100px;
+    padding: 100px 20px 100px 80px;
   }
 `;
 const HoverText = styled(motion.div)`

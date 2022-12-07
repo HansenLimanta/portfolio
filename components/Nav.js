@@ -91,7 +91,7 @@ const MenuButton = styled(motion.div)`
   z-index: 2;
   @media (max-width: 800px) {
     top: 45px;
-    right: -70px;
+    right: -60px;
     border: 1px solid #000;
     padding: 3px;
     margin: 1px;
