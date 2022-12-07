@@ -15,7 +15,7 @@ function Layout({ children }) {
       />
       {/* <Cursor> */}
       <main>
-        {/* <Loading /> */}
+        <Loading />
         <Nav />
         <TransitionEffect>{children}</TransitionEffect>
       </main>
