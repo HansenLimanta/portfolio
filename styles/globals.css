@@ -2,10 +2,23 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background: #fff;
+  color: #3a3a3a;
+  font-family: "Jost", sans-serif;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  overflow-y: scroll;
+  overflow-x: scroll;
 }
-
+body::-webkit-scrollbar {
+  display: none;
+}
+::selection {
+  background: #60d1f3;
+}
+p {
+  font-size: 1.25rem;
+}
 a {
   color: inherit;
   text-decoration: none;
@@ -13,6 +26,12 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+@media (max-width: 500px) {
+  html {
+    font-size: 75%;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
