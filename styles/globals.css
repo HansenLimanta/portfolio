@@ -33,13 +33,3 @@ a {
     font-size: 75%;
   }
 }
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
-}
