@@ -85,7 +85,44 @@ function About(props) {
             })}
           </Skills>
           <h2>Experience</h2>
-          <p>Frontend Engineer Specialist at Sagara Technology</p>
+          <h3>Full Stack Developer</h3>
+          <h4>Sagara Technology · 01/2023 – Present</h4>
+          <ul>
+            <li>
+              Develop and maintain the branch delivery system for Bank Muamalat
+              Indonesia using Vue.js and Java Spring Boot
+            </li>
+            <li>
+              Write clean, modular, and testable code for both the frontend and
+              backend
+            </li>
+            <li>
+              Identify and fix bugs and performance issues in a timely manner
+            </li>
+            <li>
+              Stay up-to-date with the latest frontend and backend technologies
+              and best practices
+            </li>
+          </ul>
+          <h3>Frontend Engineer Specialist</h3>
+          <h4>Sagara Technology · 10/2022 – 12/2022</h4>
+          <ul>
+            <li>
+              Developed and maintained the frontend of web applications using
+              Vue.js, including the Sagara Foundation CSR site, demonstrating
+              expertise in creating scalable and user-friendly interfaces
+            </li>
+            <li>
+              Designed and implemented mobile-responsive features to improve
+              user experience on mobile devices, including on the Sagara
+              Foundation site
+            </li>
+            <li>
+              Collaborated closely with back-end developers and web designers to
+              improve the overall usability and functionality of the
+              applications
+            </li>
+          </ul>
           <h2>Get in Touch</h2>
           <p>
             I&apos;m open to Job opportunities where I can contribute, learn and
@@ -141,8 +178,20 @@ const AboutMe = styled.div`
   h2 {
     margin: 0;
   }
+  h3 {
+    margin: 10px 0 0 0;
+    font-weight: 600;
+  }
+  h4 {
+    margin: 0 0 10px 0;
+    font-weight: 400;
+  }
   p {
-    margin: 10px 0 20px 0;
+    margin: 10px 0;
+  }
+  ul {
+    margin-top: 0;
+    padding-left: 30px;
   }
   @media (max-width: 800px) {
     margin: 0;
