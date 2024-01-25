@@ -16,6 +16,14 @@ import {
 
 export const projectsData = [
   {
+    title: "Portfolio v2",
+    tools: "React, NextJs, Tailwind",
+    link: "https://hansenlimanta-v2.vercel.app/",
+    image1: "/projects/hansenlimanta-v2.png",
+    desc: `This is my personal portfolio project, inspired by the design and structure of Brittany Chiang's Portfolio. The objective is to reverse engineer aspects of the website to gain insights into its layout, style, and functionality.`,
+    github: "https://github.com/hansenlimanta/portfolio-v2",
+  },
+  {
     title: "Ignite - GameList",
     tools: "React, Redux, Axios, Framer Motion, Styled Components",
     link: "https://hansen-ignite-gameslist.netlify.app/",
