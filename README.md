@@ -1,34 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Web Portfolio v1
 
-## Getting Started
+## Description
+Welcome to my web portfolio! This project serves as a showcase of my skills, projects, and experiences. It consists of four main pages: Home, About, Experience, and Playground. Explore the various sections to learn more about me and my work.
 
-First, run the development server:
+## Table of Contents
+- [Web Portfolio](#web-portfolio-v1)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Technologies Used](#technologies-used)
+  - [Contact](#contact)
+
+## Demo
+Check out the live demo of my web portfolio [here](https://www.hansenlimanta.com/).
+
+## Features
+- **Home Page:** A brief introduction to who I am and what I do.
+- **About Page:** Learn more about my background, skills, and interests.
+- **Experience Page:** Explore my professional journey and the projects I've worked on.
+- **Playground Page:** A space for experimental projects, prototypes, or anything I'm currently tinkering with.
+
+## Installation
+To run this project locally, follow these steps:
 
 ```bash
+# Clone the repository
+git clone https://github.com/hansenlimanta/portfolio.git
+
+# Navigate to the project directory
+cd your-portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
-# or
-yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Usage
+- Visit the Home page for a quick overview.
+- Explore the About page to get to know me better.
+- Navigate to the Experience page to see my professional journey.
+- Check out the Playground page for experimental projects and ideas.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Technologies Used
+- Next js
+- Emotion
+- Framer motion
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contact
+Feel free to reach out to me via email at [hansenlimanta@gmail.com](mailto:hansenlimanta@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/hansenlimanta/). Let's connect and discuss exciting opportunities!
