@@ -1,10 +1,10 @@
-# Web Portfolio v1
+# Portfolio V1
 
 ## Description
 Welcome to my web portfolio! This project serves as a showcase of my skills, projects, and experiences. It consists of four main pages: Home, About, Experience, and Playground. Explore the various sections to learn more about me and my work.
 
 ## Table of Contents
-- [Web Portfolio](#web-portfolio-v1)
+- [Portfolio V1](#portfolio-v1)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
