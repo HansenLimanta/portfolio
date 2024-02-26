@@ -16,6 +16,23 @@ import {
 
 export const projectsData = [
   {
+    title: "Linkbud - Linktree Alternative",
+    tools:
+      "Next.js, Typescript, Zustand, TRPC, Prisma, NextAuth, Tailwind CSS, Radix UI",
+    link: "https://linkbud.hansenlimanta.com/",
+    image1: "/projects/linkbud.webp",
+    desc: `LinkBud is a versatile Linktree clone app that empowers you to create a personalized list of links and choose the appearance that suits your style.`,
+    github: "https://github.com/hansenlimanta/linkbud",
+  },
+  {
+    title: "Portfolio V2",
+    tools: "Next.js, Typescript, Tailwind CSS",
+    link: "https://v2.hansenlimanta.com/",
+    image1: "/projects/portfolio-v2.webp",
+    desc: `Portfolio V2 is my latest personal portfolio project, drawing inspiration from the design and structure of Brittany Chiang's Portfolio. The objective is to reverse engineer aspects of the website to gain insights into its layout, style, and functionality. `,
+    github: "https://github.com/hansenlimanta/portfolio-v2",
+  },
+  {
     title: "Ignite - GameList",
     tools: "React, Redux, Axios, Framer Motion, Styled Components",
     link: "https://hansen-ignite-gameslist.netlify.app/",
