@@ -38,7 +38,7 @@ export const projectsData = [
     link: "https://hansen-ignite-gameslist.netlify.app/",
     image1: "/projects/ignite1.jpg",
     desc: `A web app to see a list of upcoming, popular and newest games based on the rawg.io api. You can also search by game name and view game details such as the console that provides it and game screenshots`,
-    github: "https://github.com/HansenLimanta/GameList",
+    github: "https://github.com/hansenlimanta/GameList",
   },
   {
     title: "Personal Notes App",
@@ -46,7 +46,7 @@ export const projectsData = [
     link: "https://hansen-personal-notes.netlify.app/",
     image1: "/projects/notes1.jpg",
     desc: `A web app for taking notes. You can archive or delete notes that are no longer used. Equipped with a search feature that will search according to the title of the notes.`,
-    github: "https://github.com/HansenLimanta/PersonalNotes",
+    github: "https://github.com/hansenlimanta/PersonalNotes",
   },
   {
     title: "Music Player",
@@ -54,7 +54,7 @@ export const projectsData = [
     link: "https://hansen-music-player.netlify.app/",
     image1: "/projects/music1.jpg",
     desc: `A music service developed with the react framework. Has several choices of songs to play with an attractive appearance and a progress bar that adjusts the album cover.`,
-    github: "https://github.com/HansenLimanta/MusicPlayer",
+    github: "https://github.com/hansenlimanta/MusicPlayer",
   },
   {
     title: "HTML - CSS Portfolio",
@@ -62,7 +62,7 @@ export const projectsData = [
     link: "https://hansen-htmlcss.netlify.app/",
     image1: "/projects/htmlcss1.jpg",
     desc: `I created this project at the beginning of my frontend journey to hone my HTML and CSS knowledge. Using only html and css, I learned how layouts should be made with html semantics, how to make attractive animations, and also navigate between pages.`,
-    github: "https://github.com/HansenLimanta/HTML-CSS-Portfolio",
+    github: "https://github.com/hansenlimanta/HTML-CSS-Portfolio",
   },
 ];
 
@@ -75,7 +75,7 @@ export const navLink = [
 
 export const extLink = [
   {
-    path: "https://github.com/HansenLimanta",
+    path: "https://github.com/hansenlimanta",
     Icon: () => <AiOutlineGithub size={30} />,
   },
   {
