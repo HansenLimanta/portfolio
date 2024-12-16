@@ -27,7 +27,7 @@ export const projectsData = [
   {
     title: "Portfolio V2",
     tools: "Next.js, Typescript, Tailwind CSS",
-    link: "https://v2.hansenlimanta.com/",
+    link: "https://www.hansenlimanta.com/",
     image1: "/projects/portfolio-v2.webp",
     desc: `Portfolio V2 is my latest personal portfolio project, drawing inspiration from the design and structure of Brittany Chiang's Portfolio. The objective is to reverse engineer aspects of the website to gain insights into its layout, style, and functionality. `,
     github: "https://github.com/hansenlimanta/portfolio-v2",
